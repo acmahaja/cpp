@@ -4,6 +4,7 @@ bool f(void);
 
 int main()
 {
+    //test commit
     bool ok = true;
     if(!f())
     {
